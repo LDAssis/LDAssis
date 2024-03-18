@@ -1,10 +1,9 @@
 ### Hi there 👋, I am Lucas de Assis
 
-## A software engineer
+# A software engineer
 
 ## Some skills:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" width="40" height="40"/>
 
 
 
