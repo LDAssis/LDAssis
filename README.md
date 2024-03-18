@@ -7,6 +7,7 @@
 
 ## Learning 
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/typescript-icon-2048x2048-frvs5t0b.png" width="40" height="40"/>
+- English
 
 ## Git stats
 <div>
@@ -15,6 +16,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ldassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## About me
+- A unusual problems are a little bit more attractive
+- 
 
 <!--
 **LDAssis/LDAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
