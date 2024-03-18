@@ -2,7 +2,8 @@
 <h3> A software engineer </h3>
 
 ## Some skills:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="40" height="40"/> 
+
 
 ## Learning 
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" height="40"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/typescript-icon-2048x2048-frvs5t0b.png" width="40" height="40"/>
