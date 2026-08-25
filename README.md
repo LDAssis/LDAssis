@@ -28,7 +28,8 @@
 
 ## Git stats
 
-<p>
-  <img loading="lazy" height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldassis&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ldassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
+<div>
+<a href="https://github.com/ldassis">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldassis&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ldassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
